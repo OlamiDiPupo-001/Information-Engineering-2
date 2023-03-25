@@ -11,9 +11,11 @@ int main()
 
     cout << "\n";
 
+
     Time t2;
     cout << "Enter a time in format of (hh:mm:ss)";
     cin >> t2;
+    cout << t2 << endl;
 
     Time t3;
     t3 = t2 - t1;
