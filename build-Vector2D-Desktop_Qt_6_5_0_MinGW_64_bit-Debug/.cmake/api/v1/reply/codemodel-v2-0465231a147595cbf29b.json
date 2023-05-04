@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6fbf436b955b2bf03443.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Vector2D",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Vector2D::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Vector2D-Debug-9b630269ecf41d7a88b0.json",
+					"name" : "Vector2D",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/USER/Desktop/Information-Engineering-2 GitHub/Information-Engineering-2/build-Vector2D-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/USER/Desktop/Information-Engineering-2 GitHub/Information-Engineering-2/Vector2D"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
