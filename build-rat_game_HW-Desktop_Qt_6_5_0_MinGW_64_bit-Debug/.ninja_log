@@ -1,0 +1,4 @@
+# ninja log v5
+3	387	7054515052383848	build.ninja	864af0e3d4a4df51
+0	1041	7054515050051605	CMakeFiles/rat_game_HW.dir/main.cpp.obj	6c38f0bbcb965000
+1045	1254	7054515052229388	rat_game_HW.exe	6eb225d4641b24ba
